@@ -1,4 +1,4 @@
-package at.ac.fhcampuswien.newsanalyzer.ctrl;
+package at.ac.fhcampuswien.newsapi.enums;
 
 public class NewsAPIException extends Exception{
     public NewsAPIException() {
